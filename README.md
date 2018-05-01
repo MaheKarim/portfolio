@@ -4,8 +4,8 @@
 
 ## Preview
 
-[![Resume Preview](<a href="https://ibb.co/hJk0R7"><img src="https://preview.ibb.co/gk9S67/portfolio.png" alt="portfolio" border="0"></a>)]
-(<a href="https://ibb.co/hJk0R7"><img src="https://thumb.ibb.co/hJk0R7/portfolio.png" alt="portfolio" border="0"></a>)
+[(<a href="https://ibb.co/hJk0R7"><img src="https://preview.ibb.co/gk9S67/portfolio.png" alt="portfolio" border="0"></a>)]
+
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
